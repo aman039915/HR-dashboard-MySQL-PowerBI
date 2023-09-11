@@ -7,10 +7,12 @@ Data Cleaning & Analysis - MySQL Workbench
 Data Visualization - PowerBI
 
 # Questions
-What is the gender breakdown of employees in the company?
+What is the gender breakdown of employees in the company?  
 
-What is the race/ethnicity breakdown of employees in the company?
-What is the age distribution of employees in the company?
+What is the race/ethnicity breakdown of employees in the company?  
+
+What is the age distribution of employees in the company?  
+
 How many employees work at headquarters versus remote locations?
 What is the average length of employment for employees who have been terminated?
 How does the gender distribution vary across departments and job titles?
